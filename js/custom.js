@@ -50,17 +50,17 @@ window.addEventListener('scroll', scrCtrl);
 // Features Section Data
 const features = [
   {
-    image: '/soaply_kdt_02/images/about-icon-1.svg',
+    image: '/uiux_coding-/images/about-icon-1.svg',
     title: 'For All Skin Types',
     text: '레히히어 앵밀이간는다, 하륵러긶어서, 시나레다 촌안워응을 난엇수잘를링으핑이 호게개. 저다 아타몰린기잘을 거조에서 티결이히면',
   },
   {
-    image: '/soaply_kdt_02/images/about-icon-2.svg',
+    image: '/uiux_coding-/images/about-icon-2.svg',
     title: '100% Organic',
     text: '익골예 앙다짠득루는 으사다 욕기가. 온옷이 극햄다 자릐위지 폄게랑은 더왕의, 쇄오로 앙소으초근에요 다여고 손뻬에서 미자갠을',
   },
   {
-    image: '/soaply_kdt_02/images/about-icon-3.svg',
+    image: '/uiux_coding-/images/about-icon-3.svg',
     title: 'Cuelty Free',
     text: '쒀엙도으애다 그둰을 기긍자알죠를 쳉걱는다, 몽익꼔온은 하치소다 가즈허동다 미른시예는 거곂다. 엔어콧나부까지 즈된단에',
   },
